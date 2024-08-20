@@ -18,16 +18,13 @@
     <img align="center" alt="Kayo-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
     <img align="center" alt="Kayo-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img align="center" alt="Kayo-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    <img align="center" alt="Kayo-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-   
-   
+    <img align="center" alt="Kayo-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">  
   </div>
 
 #
 
 
-
- <div>
+ <div> 
    <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
    </a>
@@ -42,9 +39,8 @@
 
    <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-   </a>
-    
-   
-   
+   </a>   
   </div>
+
+  ![Snake animation](https://github.com/JapagamerXt/JapagamerXt/blob/output/github-contribution-grid-snake.svg)
 

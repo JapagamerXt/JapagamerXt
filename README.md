@@ -42,5 +42,5 @@
    </a>   
   </div>
 
-  ![Snake animation](https://github.com/JapagamerXt/JapagamerXt/blob/output/github-contribution-grid-snake.svg)
+
 
